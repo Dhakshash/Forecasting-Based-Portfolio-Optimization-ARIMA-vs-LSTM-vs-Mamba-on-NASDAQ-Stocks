@@ -181,3 +181,6 @@ This project explores how well **time series forecasting models** can drive **ac
 - Introduce **position sizing based on predicted confidence intervals**.
 
 ---
+
+## 🤝 Connect
+For questions, collaborations, or opportunities related to AI in finance and risk modeling, feel free to connect through dhakshashganesan@gmail.com or GitHub.
